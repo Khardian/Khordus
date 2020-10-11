@@ -1,8 +1,8 @@
 # Site simples
 
-Este projeto é um site bem simples criado para .
+Este projeto é um site bem simples criado para nada.
 
-**Não é para jogos oficiais.**
+
 
 ## Tecnologias utilizadas
 1. **HTML**: é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.
