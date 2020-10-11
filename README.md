@@ -12,4 +12,4 @@ Este projeto é um site bem simples criado para nada.
 
 
 ## Como rodar o codigo
--> Simplismente baixa o codigo e abra o arquivo **_index.html_** no seu navegador
+> Simplismente baixa o codigo e abra o arquivo **_index.html_** no seu navegador
