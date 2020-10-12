@@ -1,0 +1,78 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.clearfix:after {
+	content:"";
+	display: table;
+	clear: both;
+}
+.subcont{
+	width: 1000px;
+	margin: 0 auto 0 auto;
+}
+.ttl1 , .ttl2{
+	font-weight: lighter;
+	font-family: 'Lato', sans-serif;
+	padding:10;
+	text-align:center;
+	color:white;
+}
+.ttl1{
+	background-color: #1B4272;
+	font-size:60px;
+}
+.ttl2{
+	background-color: #1B3262;
+	font-size:40px;
+}
+.plainText , .authorNote , .authorNote img{
+	float: left;
+}
+.plainText , .authorNote{
+	width: 65%;
+	margin-bottom: 40px;
+}
+.plainText , .leftBlock{
+	margin-top: 15px
+}
+.plainText{
+	font-weight: lighter;
+	line-height: 150%;
+	font-size: 18px;
+	padding: 20px;
+	color: #FFFFFF;
+	font-family: Helvetica;
+	background-color: #446699;
+
+}
+.leftBlock{
+	float: right;
+	width: 30%;
+}
+.leftBlock img{
+	width: 100%;
+	margin: 10px 0 10px 0;
+}
+.em{
+	padding: 20px;
+	font-size: 30px;
+	color: white;
+	background-color: #446699;
+	text-align: center;
+}
+.authorNote img , .author{
+	height: 70px;
+}
+.authorNote{
+	padding-top: 20px;
+	border-top: 1px solid #606060;
+	font-family: 'Kristi', cursive;
+}
+.author{
+	font-size: 40px;
+	font-family: 'Kristi', cursive;
+	margin-top: 8px;
+	padding-left: 99px
+}
